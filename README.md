@@ -1,1 +1,1 @@
-[![typograssy]([https://typograssy.deno.dev/api?text=Hello%20world!](https://typograssy.deno.dev/api?text=Hi%20there%20!)https://typograssy.deno.dev/api?text=Hi%20there%20!)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=Hi%20there%20!)](https://github.com/kawarimidoll/typograssy)
