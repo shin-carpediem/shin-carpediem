@@ -10,3 +10,7 @@
 - [SwiftUI登場前のVIPERアプリでもSwiftUIをスムーズに導入できた話](https://www.youtube.com/watch?v=IGCAXfvb5Ww)
 - [SwiftのCombineを、RxSwiftとの違いを理解しながら導入する](https://tech.stmn.co.jp/entry/2023/07/03/163842)
 - [VIPERアプリにSwiftUIを導入してみた](https://speakerdeck.com/shincarpediem/viperapuriniswiftuiwodao-ru-sitemita)
+
+### Zenn
+
+- https://zenn.dev/shin_carpediem
