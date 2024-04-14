@@ -2,3 +2,14 @@
 <br/><br/>
 [![typograssy](https://typograssy.deno.dev/api?text=Hi%20there%20!)](https://github.com/kawarimidoll/typograssy)
 ![github-user-contribution](https://github.com/shin-carpediem/shin-carpediem/assets/71208265/b85378e3-185e-438d-b871-512785598c3e)
+
+## Blogs & Presentations
+
+- [try! Swift Tokyo 2024 にスポンサーとして参加しました！](https://tech.stmn.co.jp/entry/2024/04/03/090347)
+- [TUNAG iOSアプリをマルチモジュール化しました](https://tech.stmn.co.jp/entry/2024/03/21/095826)
+- [iOSのPhoto Libraryアクセス権限を見直してみよう](https://speakerdeck.com/shincarpediem/iosnophoto-libraryakusesuquan-xian-wojian-zhi-sitemiyou)
+- [VIPERアーキテクチャ採用のTUNAG iOSアプリにSwiftUIを導入しました](https://tech.stmn.co.jp/entry/2023/09/01/132141)
+- [iOSDC Japan 2023 スポンサーセッションの裏側](https://note.com/carpediemzzz/n/n214c77937481)
+- [SwiftUI登場前のVIPERアプリでもSwiftUIをスムーズに導入できた話](https://www.youtube.com/watch?v=IGCAXfvb5Ww)
+- [SwiftのCombineを、RxSwiftとの違いを理解しながら導入する](https://tech.stmn.co.jp/entry/2023/07/03/163842)
+- [VIPERアプリにSwiftUIを導入してみた](https://speakerdeck.com/shincarpediem/viperapuriniswiftuiwodao-ru-sitemita)
