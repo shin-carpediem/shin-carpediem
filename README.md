@@ -1,6 +1,6 @@
 [GitHub City](https://honzaap.github.io/GithubCity/?name=shin-carpediem&year=2023)
 
-## Blogs & Presentations
+## Blogs & Speaking Engagements
 
 - [Apr 03, 2024 / try! Swift Tokyo 2024 にスポンサーとして参加しました！](https://tech.stmn.co.jp/entry/2024/04/03/090347)
 - [Mar 01, 2024 / TUNAG iOSアプリをマルチモジュール化しました](https://tech.stmn.co.jp/entry/2024/03/21/095826)
