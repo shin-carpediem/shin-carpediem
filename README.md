@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/92f9f189-3f02-40e2-bae7-b1c57bb4c43e" width="350px">
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 ## Blogs & Speaking Engagements
 
