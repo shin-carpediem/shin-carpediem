@@ -5,6 +5,7 @@ Last Updated on 9/3/2024, 1:14:56 AM</p>
 
 ## Blogs & Speaking Engagements
 
+- [Sep 03, 2024 / iOSDC Japan 2024 にスポンサーとして参加しました！](https://tech.stmn.co.jp/entry/2024/09/03/150103)
 - [Apr 03, 2024 / try! Swift Tokyo 2024 にスポンサーとして参加しました！](https://tech.stmn.co.jp/entry/2024/04/03/090347)
 - [Mar 01, 2024 / TUNAG iOSアプリをマルチモジュール化しました](https://tech.stmn.co.jp/entry/2024/03/21/095826)
 - [Dec 15, 2023 / iOSのPhoto Libraryアクセス権限を見直してみよう](https://speakerdeck.com/shincarpediem/iosnophoto-libraryakusesuquan-xian-wojian-zhi-sitemiyou)
