@@ -5,6 +5,7 @@ Last Updated on 9/6/2024, 1:16:04 AM</p>
 
 ## Blogs & Speaking Engagements
 
+- [Sep 06, 2024 / Concurrency Warningが 沢山出たから聞いてほしい ～Xcode 16.1 Beta編](https://speakerdeck.com/shincarpediem/concurrency-warningga-ze-shan-chu-takarawen-itehosii-xcode-16-dot-1-beta-bian)
 - [Sep 03, 2024 / iOSDC Japan 2024 にスポンサーとして参加しました！](https://tech.stmn.co.jp/entry/2024/09/03/150103)
 - [Apr 03, 2024 / try! Swift Tokyo 2024 にスポンサーとして参加しました！](https://tech.stmn.co.jp/entry/2024/04/03/090347)
 - [Mar 01, 2024 / TUNAG iOSアプリをマルチモジュール化しました](https://tech.stmn.co.jp/entry/2024/03/21/095826)
