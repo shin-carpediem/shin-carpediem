@@ -1,6 +1,6 @@
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/ROSXTKN" target="_blank" rel="noopener noreferrer"><img alt="ROSXTKN's scores on LAPRAS are as follows: Engineering: 3.74 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.4 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.74&b=3.48&i=3.4&b1=%23004736&b2=%2300BF8F&i1=%23007B5C&i2=%2300BF8F&l=en" width="350" ></a>  
-Last Updated on 10/28/2024, 1:23:44 AM</p>
+<p ><a href="https://lapras.com/public/ROSXTKN" target="_blank" rel="noopener noreferrer"><img alt="ROSXTKN's scores on LAPRAS are as follows: Engineering: 3.75 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.4 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.75&b=3.48&i=3.4&b1=%23004736&b2=%2300BF8F&i1=%23007B5C&i2=%2300BF8F&l=en" width="350" ></a>  
+Last Updated on 10/29/2024, 1:22:24 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## Blogs & Speaking Engagements
