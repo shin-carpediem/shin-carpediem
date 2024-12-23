@@ -1,6 +1,6 @@
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/ROSXTKN" target="_blank" rel="noopener noreferrer"><img alt="ROSXTKN's scores on LAPRAS are as follows: Engineering: 3.76 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.41 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.76&b=3.48&i=3.41&b1=%23004736&b2=%2300BF8F&i1=%23007B5C&i2=%2300BF8F&l=en" width="350" ></a>  
-Last Updated on 12/22/2024, 1:26:55 AM</p>
+Last Updated on 12/23/2024, 1:22:13 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## Blogs & Speaking Engagements
