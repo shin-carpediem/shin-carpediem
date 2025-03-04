@@ -5,6 +5,7 @@ Last Updated on 3/4/2025, 1:23:54 AM</p>
 
 ## Blogs & Speaking Engagements
 
+- [Mar 04, 2025 / SwiftUI Listとの闘い](https://tech.stmn.co.jp/entry/2025/03/04/153052)
 - [Dec 13, 2024 /「このアプリ、アプリっぽい！！！」よりアプリらしさを出すために](https://speakerdeck.com/shincarpediem/yoriapurirasisawochu-sutameni)
 - [Sep 06, 2024 / Concurrency Warningが 沢山出たから聞いてほしい ～Xcode 16.1 Beta編](https://speakerdeck.com/shincarpediem/concurrency-warningga-ze-shan-chu-takarawen-itehosii-xcode-16-dot-1-beta-bian)
 - [Sep 03, 2024 / iOSDC Japan 2024 にスポンサーとして参加しました！](https://tech.stmn.co.jp/entry/2024/09/03/150103)
