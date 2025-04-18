@@ -1,5 +1,6 @@
 ## Blogs & Speaking Engagements
 
+- [Apr 18, 2025 / Swift UI デフォルト引数クイズ](https://speakerdeck.com/shincarpediem/swift-ui-dehuorutoyin-shu-kuizu)
 - [Mar 04, 2025 / SwiftUI Listとの闘い](https://tech.stmn.co.jp/entry/2025/03/04/153052)
 - [Dec 13, 2024 /「このアプリ、アプリっぽい！！！」よりアプリらしさを出すために](https://speakerdeck.com/shincarpediem/yoriapurirasisawochu-sutameni)
 - [Sep 06, 2024 / Concurrency Warningが 沢山出たから聞いてほしい ～Xcode 16.1 Beta編](https://speakerdeck.com/shincarpediem/concurrency-warningga-ze-shan-chu-takarawen-itehosii-xcode-16-dot-1-beta-bian)
