@@ -14,6 +14,10 @@
 - [July 18, 2023 / VIPERアプリにSwiftUIを導入してみた](https://speakerdeck.com/shincarpediem/viperapuriniswiftuiwodao-ru-sitemita)
 - [July 03, 2023 / SwiftのCombineを、RxSwiftとの違いを理解しながら導入する](https://tech.stmn.co.jp/entry/2023/07/03/163842)
 
-#### Zenn
+### Zenn
 
 - https://zenn.dev/shin_carpediem
+
+### note
+
+- https://note.com/carpediemzzz
