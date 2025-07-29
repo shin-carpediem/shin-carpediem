@@ -1,5 +1,6 @@
 ## Blogs & Speaking Engagements
 
+- [Jul 29, 2025 / TUNAGモバイルアプリでコア機能『タイムライン』をSwiftUI / Jetpack Compose化しました](https://tech.stmn.co.jp/entry/2025/07/29/132231)
 - [Apr 18, 2025 / Swift UI デフォルト引数クイズ](https://speakerdeck.com/shincarpediem/swift-ui-dehuorutoyin-shu-kuizu)
 - [Mar 04, 2025 / SwiftUI Listとの闘い](https://tech.stmn.co.jp/entry/2025/03/04/153052)
 - [Dec 13, 2024 /「このアプリ、アプリっぽい！！！」よりアプリらしさを出すために](https://speakerdeck.com/shincarpediem/yoriapurirasisawochu-sutameni)
@@ -11,8 +12,8 @@
 - [Sep 01, 2023 / VIPERアーキテクチャ採用のTUNAG iOSアプリにSwiftUIを導入しました](https://tech.stmn.co.jp/entry/2023/09/01/132141)
 - [Sep 22, 2023 / iOSDC Japan 2023 スポンサーセッションの裏側](https://note.com/carpediemzzz/n/n214c77937481)
 - [Sep 03, 2023 / SwiftUI登場前のVIPERアプリでもSwiftUIをスムーズに導入できた話](https://www.youtube.com/watch?v=IGCAXfvb5Ww)
-- [July 18, 2023 / VIPERアプリにSwiftUIを導入してみた](https://speakerdeck.com/shincarpediem/viperapuriniswiftuiwodao-ru-sitemita)
-- [July 03, 2023 / SwiftのCombineを、RxSwiftとの違いを理解しながら導入する](https://tech.stmn.co.jp/entry/2023/07/03/163842)
+- [Jul 18, 2023 / VIPERアプリにSwiftUIを導入してみた](https://speakerdeck.com/shincarpediem/viperapuriniswiftuiwodao-ru-sitemita)
+- [Jul 03, 2023 / SwiftのCombineを、RxSwiftとの違いを理解しながら導入する](https://tech.stmn.co.jp/entry/2023/07/03/163842)
 
 ### Zenn
 
