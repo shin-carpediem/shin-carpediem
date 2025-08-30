@@ -1,5 +1,6 @@
 ## Blogs & Speaking Engagements
 
+- [Aug 29, 2025 / モバイルアプリへのRemoteConfigの恩恵](https://speakerdeck.com/shincarpediem/mohairuahurihenoremoteconfignoen-hui)
 - [Jul 29, 2025 / TUNAGモバイルアプリでコア機能『タイムライン』をSwiftUI / Jetpack Compose化しました](https://tech.stmn.co.jp/entry/2025/07/29/132231)
 - [Apr 18, 2025 / Swift UI デフォルト引数クイズ](https://speakerdeck.com/shincarpediem/swift-ui-dehuorutoyin-shu-kuizu)
 - [Mar 04, 2025 / SwiftUI Listとの闘い](https://tech.stmn.co.jp/entry/2025/03/04/153052)
