@@ -2,7 +2,12 @@
 
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
 
-## Blogs & Speaking Engagements
+## Organizes
+
+- [Nagoya.swift](https://japan-region-swift.connpass.com/)
+- [mobile.stmn](https://stmn.connpass.com/)
+
+<details><summary>Blogs & Speaking Engagements</summary>
 
 - [Sep 25, 2025 / iOSDC Japan 2025 参加レポート🍎](https://tech.stmn.co.jp/entry/2025/09/25/164217)
 - [Aug 29, 2025 / モバイルアプリへのRemoteConfigの恩恵](https://speakerdeck.com/shincarpediem/mohairuahurihenoremoteconfignoen-hui)
@@ -22,13 +27,12 @@
 - [Jul 18, 2023 / VIPERアプリにSwiftUIを導入してみた](https://speakerdeck.com/shincarpediem/viperapuriniswiftuiwodao-ru-sitemita)
 - [Jul 03, 2023 / SwiftのCombineを、RxSwiftとの違いを理解しながら導入する](https://tech.stmn.co.jp/entry/2023/07/03/163842)
 
-## Interviews
+</details>
+
+<details><summary>Interviews</summary>
 
 - [Apr 08, 2026 / 開発現場のエンジニアが語る、AI活用のリアルとこれからのエンジニア像](https://tech.stmn.co.jp/entry/2026/04/08/164725)
 - [Mar 09, 2026 / 【ベストプロダクト賞】エンジニアとして幅広い領域に挑戦しながら「コト」に向き合うことで掴んだ部門賞](https://note.com/stmn_hr/n/n6be5ec0bd8a5)
 - [Jan 13, 2026 / 信頼が「越境」を加速させる。スタメンのエンジニア対談が明かす、「人と組織で勝つ」プロダクト組織への進化](https://note.com/stmn_hr/n/n628a87ab68f9)
 
-## Organizes
-
-- [Nagoya.swift](https://japan-region-swift.connpass.com/)
-- [mobile.stmn](https://stmn.connpass.com/)
+</details>
