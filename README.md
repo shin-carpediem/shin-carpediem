@@ -27,3 +27,8 @@
 - [Apr 08, 2026 / 開発現場のエンジニアが語る、AI活用のリアルとこれからのエンジニア像](https://tech.stmn.co.jp/entry/2026/04/08/164725)
 - [Mar 09, 2026 / 【ベストプロダクト賞】エンジニアとして幅広い領域に挑戦しながら「コト」に向き合うことで掴んだ部門賞](https://note.com/stmn_hr/n/n6be5ec0bd8a5)
 - [Jan 13, 2026 / 信頼が「越境」を加速させる。スタメンのエンジニア対談が明かす、「人と組織で勝つ」プロダクト組織への進化](https://note.com/stmn_hr/n/n628a87ab68f9)
+
+## Organizes
+
+- [Nagoya.swift](https://japan-region-swift.connpass.com/)
+- [mobile.stmn](https://stmn.connpass.com/)
