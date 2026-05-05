@@ -7,25 +7,30 @@
 - [Nagoya.swift](https://japan-region-swift.connpass.com/)
 - [mobile.stmn](https://stmn.connpass.com/)
 
-<details><summary>Blogs & Speaking Engagements</summary>
+<details><summary>Blogs</summary>
 
 - [Sep 25, 2025 / iOSDC Japan 2025 参加レポート🍎](https://tech.stmn.co.jp/entry/2025/09/25/164217)
-- [Aug 29, 2025 / モバイルアプリへのRemoteConfigの恩恵](https://speakerdeck.com/shincarpediem/mohairuahurihenoremoteconfignoen-hui)
-- [Jul 29, 2025 / TUNAGモバイルアプリでコア機能『タイムライン』をSwiftUI / Jetpack Compose化しました](https://tech.stmn.co.jp/entry/2025/07/29/132231)
 - [Apr 29, 2025 / Nagoya.swift#1 開催までのあれこれ](https://note.com/carpediemzzz/n/naae22795e97f)
-- [Apr 18, 2025 / Swift UI デフォルト引数クイズ](https://speakerdeck.com/shincarpediem/swift-ui-dehuorutoyin-shu-kuizu)
+- [Jul 29, 2025 / TUNAGモバイルアプリでコア機能『タイムライン』をSwiftUI / Jetpack Compose化しました](https://tech.stmn.co.jp/entry/2025/07/29/132231)
 - [Mar 04, 2025 / SwiftUI Listとの闘い](https://tech.stmn.co.jp/entry/2025/03/04/153052)
-- [Dec 13, 2024 /「このアプリ、アプリっぽい！！！」よりアプリらしさを出すために](https://speakerdeck.com/shincarpediem/yoriapurirasisawochu-sutameni)
-- [Sep 06, 2024 / Concurrency Warningが 沢山出たから聞いてほしい ～Xcode 16.1 Beta編](https://speakerdeck.com/shincarpediem/concurrency-warningga-ze-shan-chu-takarawen-itehosii-xcode-16-dot-1-beta-bian)
 - [Sep 03, 2024 / iOSDC Japan 2024 にスポンサーとして参加しました！](https://tech.stmn.co.jp/entry/2024/09/03/150103)
 - [Apr 03, 2024 / try! Swift Tokyo 2024 にスポンサーとして参加しました！](https://tech.stmn.co.jp/entry/2024/04/03/090347)
 - [Mar 01, 2024 / TUNAG iOSアプリをマルチモジュール化しました](https://tech.stmn.co.jp/entry/2024/03/21/095826)
-- [Dec 15, 2023 / iOSのPhoto Libraryアクセス権限を見直してみよう](https://speakerdeck.com/shincarpediem/iosnophoto-libraryakusesuquan-xian-wojian-zhi-sitemiyou)
 - [Sep 22, 2023 / iOSDC Japan 2023 スポンサーセッションの裏側](https://note.com/carpediemzzz/n/n214c77937481)
-- [Sep 03, 2023 / SwiftUI登場前のVIPERアプリでもSwiftUIをスムーズに導入できた話](https://www.youtube.com/watch?v=IGCAXfvb5Ww)
 - [Sep 01, 2023 / VIPERアーキテクチャ採用のTUNAG iOSアプリにSwiftUIを導入しました](https://tech.stmn.co.jp/entry/2023/09/01/132141)
-- [Jul 18, 2023 / VIPERアプリにSwiftUIを導入してみた](https://speakerdeck.com/shincarpediem/viperapuriniswiftuiwodao-ru-sitemita)
 - [Jul 03, 2023 / SwiftのCombineを、RxSwiftとの違いを理解しながら導入する](https://tech.stmn.co.jp/entry/2023/07/03/163842)
+
+</details>
+
+<details><summary>Speaking</summary>
+
+- [Aug 29, 2025 / モバイルアプリへのRemoteConfigの恩恵](https://speakerdeck.com/shincarpediem/mohairuahurihenoremoteconfignoen-hui)
+- [Apr 18, 2025 / Swift UI デフォルト引数クイズ](https://speakerdeck.com/shincarpediem/swift-ui-dehuorutoyin-shu-kuizu)
+- [Dec 13, 2024 /「このアプリ、アプリっぽい！！！」よりアプリらしさを出すために](https://speakerdeck.com/shincarpediem/yoriapurirasisawochu-sutameni)
+- [Sep 06, 2024 / Concurrency Warningが 沢山出たから聞いてほしい ～Xcode 16.1 Beta編](https://speakerdeck.com/shincarpediem/concurrency-warningga-ze-shan-chu-takarawen-itehosii-xcode-16-dot-1-beta-bian)
+- [Dec 15, 2023 / iOSのPhoto Libraryアクセス権限を見直してみよう](https://speakerdeck.com/shincarpediem/iosnophoto-libraryakusesuquan-xian-wojian-zhi-sitemiyou)
+- [Sep 03, 2023 / SwiftUI登場前のVIPERアプリでもSwiftUIをスムーズに導入できた話](https://www.youtube.com/watch?v=IGCAXfvb5Ww)
+- [Jul 18, 2023 / VIPERアプリにSwiftUIを導入してみた](https://speakerdeck.com/shincarpediem/viperapuriniswiftuiwodao-ru-sitemita)
 
 </details>
 
