@@ -24,6 +24,7 @@
 
 <details><summary>Speaking</summary>
 
+- [May 9, 2026 / iOS・Androidの文字サイズ設定をWebViewに！](https://speakerdeck.com/shincarpediem/iosandroidnowen-zi-saisushe-ding-wowebviewni-mohairuuinoakusesihiriteitips)
 - [Aug 29, 2025 / モバイルアプリへのRemoteConfigの恩恵](https://speakerdeck.com/shincarpediem/mohairuahurihenoremoteconfignoen-hui)
 - [Apr 18, 2025 / Swift UI デフォルト引数クイズ](https://speakerdeck.com/shincarpediem/swift-ui-dehuorutoyin-shu-kuizu)
 - [Dec 13, 2024 /「このアプリ、アプリっぽい！！！」よりアプリらしさを出すために](https://speakerdeck.com/shincarpediem/yoriapurirasisawochu-sutameni)
