@@ -9,6 +9,7 @@
 
 <details><summary>Blogs</summary>
 
+- [May 25, 2026 / iOS・Androidの文字サイズ設定をWebViewに！ モバイルUIのアクセシビリティTips](https://tech.stmn.co.jp/entry/2026/05/25/100249)
 - [Sep 25, 2025 / iOSDC Japan 2025 参加レポート🍎](https://tech.stmn.co.jp/entry/2025/09/25/164217)
 - [Apr 29, 2025 / Nagoya.swift#1 開催までのあれこれ](https://note.com/carpediemzzz/n/naae22795e97f)
 - [Jul 29, 2025 / TUNAGモバイルアプリでコア機能『タイムライン』をSwiftUI / Jetpack Compose化しました](https://tech.stmn.co.jp/entry/2025/07/29/132231)
