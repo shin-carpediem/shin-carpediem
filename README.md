@@ -5,6 +5,7 @@
 ## Organizing
 
 - [Nagoya.swift](https://japan-region-swift.connpass.com/)
+- [Nagoya / Japan-\(region).swift](https://japan-region-swift.connpass.com/participation/)
 - [mobile.stmn](https://stmn.connpass.com/)
 
 <details><summary>Blogs</summary>
