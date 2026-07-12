@@ -24,6 +24,12 @@
 
 </details>
 
+<details><summary>Brochure</summary>
+
+- [iOSDC Japan 2026 / WebViewでOSの文字サイズ設定を反映するための具体的手法 - iOSとAndroidの比較](https://fortee.jp/iosdc-japan-2026/proposal/6e8d1f73-9b7d-4091-a0f1-460a9f5f9648)
+
+</details>
+
 <details><summary>Speaking</summary>
 
 - [May 9, 2026 / iOS・Androidの文字サイズ設定をWebViewに！](https://speakerdeck.com/shincarpediem/iosandroidnowen-zi-saisushe-ding-wowebviewni-mohairuuinoakusesihiriteitips)
